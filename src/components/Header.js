@@ -13,10 +13,10 @@ const Header = () => {
       <Link to="/about" className="about" >About</Link>
         
           <div className="dangnhap">
-          <Link to="/dangnhap" className="dangnhap" >đăng nhập</Link> 
+          <Link to="/login" className="dangnhap" >đăng nhập</Link> 
           </div>
           <div className="dangky"> 
-          <Link to="/dangky" className="dangky" > đăng ký</Link>  
+          <Link to="/register" className="dangky" > đăng ký</Link>  
           
          
         </div>
